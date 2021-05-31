@@ -1,0 +1,162 @@
+.movimento {
+    position: absolute;
+    text-align: justify;
+    top: 670px;
+    left: 10px;
+    width: 1400px;
+    line-height: 30px;
+    height: 3px;
+}
+
+.icon {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 10px;
+    left: 260px;
+}
+
+.icon2 {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 140px;
+    left: 263px;
+}
+
+.icon3 {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 210px;
+    left: 262px;
+}
+
+.ixtxt {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.ixtxt2 {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+
+.ixtxt3 {
+    max-width: 551px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 190px;
+    left: 100px;
+}
+
+#divBusca {
+    background-color: #d4d8d8;
+    border: solid 2px;
+    border-radius: 15px;
+    position: absolute;
+    width: 160px;
+    top: 290px;
+    left: 270px;
+    bottom: 500px;
+}
+
+#txtBusca {
+    float: left;
+    background-color: transparent;
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 18px;
+    border: none;
+    position: absolute;
+    height: 32px;
+    width: 260px;
+    top: 5px;
+}
+
+.search {
+    position: absolute;
+    left: 390px;
+    top: 290px;
+}
+
+.cima {
+    background-image: url("../img/marvel.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+
+.final{
+    top:600px;
+    width: 220vh;
+    height: 30vh;
+    left: 1px;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    border-radius: 0px !important;
+}
+
+.finalImg {
+    background-image: url("../img/final.jpg");
+    width: 209vh;
+    height: 30vh;
+    left: 30px;
+    top:50px;
+    background-position: center;
+    color: #ffffff;
+    border-radius: 0px !important;
+    margin-left: 0px;
+    max-width: 6000px;
+}
+
+.navHeight{
+    height: 70px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.texto{
+    /* max-width: 551px; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: justify;
+    position: absolute;
+    top: 680px;
+    left: 100px;
+}
